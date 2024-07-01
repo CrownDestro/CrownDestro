@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭I'm currently Studying in Amrita Vishwa Vidyapeetham in 1st year.<br>
+- 🔭I'm currently Studying in Amrita Vishwa Vidyapeetham.<br>
 - 😄 Pronouns: He/Him
 - 🌱 I am currently learning React JS<br>
 - 💬Ask me about anything, Cause I am always eager to get Knowledgable.
